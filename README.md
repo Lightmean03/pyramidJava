@@ -11,10 +11,10 @@ This library contatin useful methods that may be used again, aswell as methods f
 
 ## contents
 - #### [arrMeth.java](https://github.com/Lightmean03/pyramidJava/blob/main/arrMeth.java)
-- #### fileMeth.java
-- #### intMeth.Java
-- #### strMeth.java
-- #### InputHandler.java
+- #### [fileMeth.java](https://github.com/Lightmean03/pyramidJava/blob/main/fileMeth.java)
+- #### [intMeth.Java](https://github.com/Lightmean03/pyramidJava/blob/main/intMeth.java)
+- #### [strMeth.java](https://github.com/Lightmean03/pyramidJava/blob/main/strMeth.java)
+- #### [InputHandler.java](https://github.com/Lightmean03/pyramidJava/blob/main/InputHandler.java)
 
 ### Each class is a categorized group of methods 
 
