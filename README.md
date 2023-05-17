@@ -4,7 +4,7 @@
 - There is alot that still needs to be add to this libary
 
 ## What this is
-This is my personal library of Java code. I made most of the code by some has been taken from Course contents and other materials
+This is my personal library of Java code, I made most of the code but some has been taken from course contents and other materials
 
 ## Why is this
 This library contatin useful methods that may be used again, aswell as methods for referencing syntax  and concepts in Java
