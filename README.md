@@ -10,7 +10,7 @@ This is my personal library of Java code. I made most of the code by some has be
 This library contatin useful methods that may be used again, aswell as methods for referencing syntax  and concepts in Java
 
 ## contents
-- #### arrMeth.java
+- #### [arrMeth.java](https://github.com/Lightmean03/pyramidJava/blob/main/arrMeth.java)
 - #### fileMeth.java
 - #### intMeth.Java
 - #### strMeth.java
